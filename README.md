@@ -20,7 +20,7 @@ Contributions are welcome! If you have any improvements or fixes, particularly f
 1. Clone the repository:
    ```bash
    git clone https://github.com/SevyXMR/Gata-DVA-bot.git
-   cd your-repository-directory
+   cd Gata-DVA-bot
 
 ### Install the required packages:
 
