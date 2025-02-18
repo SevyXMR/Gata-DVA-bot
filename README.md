@@ -1,7 +1,8 @@
 # GataBot Automation Script
 
 ## Overview
-This repository contains a script `gata.js` designed to automate tasks on the gata.xyz platform. The script initializes with user-specified private keys, optionally utilizes proxies, and automates task processing to accumulate points. It includes error handling, task retrieval, and score submission functionalities.
+This repository contains a script `gata.js` designed to run the DVA(Data Validation Agent) task on the app.gata.xyz platform. The script initializes with user-specified private keys, optionally utilizes proxies, and automates task processing to accumulate points in multiples wallets. 
+It includes error handling, task retrieval, and score submission functionalities.
 
 ## Current Limitations
 The script successfully handles authentication, task retrieval, and score submission. However, it encounters issues with accurately accumulating points post-task submission. This appears to be a problem with the way scores are computed or accepted by the platform.
