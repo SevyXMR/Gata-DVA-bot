@@ -33,7 +33,7 @@ Proxies (Optional): If you wish to use proxies, place them in the proxy.txt file
 ### Running the Script
 To run the script, use the following command:
 
-```bash
-node gata.js
+3. ```bash
+   node gata.js
 
 The script will prompt you to choose whether to use proxies. Answer yes or no according to your setup.
