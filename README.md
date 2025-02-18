@@ -1,4 +1,4 @@
-# GataBot Automation Script
+# Gataxyz DVA Automation Script
 
 ## Overview
 This repository contains a script `gata.js` designed to run the DVA(Data Validation Agent) task on the app.gata.xyz platform. The script initializes with user-specified private keys, optionally utilizes proxies, and automates task processing to accumulate points in multiples wallets. 
