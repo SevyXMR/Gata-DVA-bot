@@ -19,7 +19,7 @@ Contributions are welcome! If you have any improvements or fixes, particularly f
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/SevyXMR/Gata-DVA-bot.git
    cd your-repository-directory
 
 ### Install the required packages:
