@@ -23,7 +23,8 @@ Contributions are welcome! If you have any improvements or fixes, particularly f
 
 ### Install the required packages:
 
-2. npm install
+2. ```bash
+   npm install
 
 ## Configuration
 Private Keys: Place all your private keys, one per line, in the pk.txt file.
